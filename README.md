@@ -30,8 +30,6 @@ The goal is to identify key drivers of employee turnover and help HR teams reduc
 ## 📂 Files
 - `EmployeeAttrition.pbix` → Power BI dashboard  
 - `dataset/employee_attrition.csv` → Dataset (IBM HR Analytics)  
-- `images/` → Dashboard screenshots  
-
 
 ---
 
