@@ -48,5 +48,5 @@ The goal is to identify key drivers of employee turnover and help HR teams reduc
 
 ---
 
-👨‍💻 **Author:** Your Name  
+👨‍💻 **Author:** Mahammad Furkhan Y Adoni
 🔗 [LinkedIn](http://www.linkedin.com/in/furkhan5986) | [GitHub](https://github.com/furkhan07)  
