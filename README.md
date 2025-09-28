@@ -1,4 +1,4 @@
-# Employee Attrition Report (Power BI)
+Power BI dashboard analyzing employee attrition using HR dataset.# Employee Attrition Report (Power BI)
 
 📌 This Power BI project analyzes employee attrition trends using the IBM HR dataset.  
 The goal is to identify key drivers of employee turnover and help HR teams reduce attrition.
