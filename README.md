@@ -32,10 +32,6 @@ The goal is to identify key drivers of employee turnover and help HR teams reduc
 - `dataset/employee_attrition.csv` → Dataset (IBM HR Analytics)  
 - `images/` → Dashboard screenshots  
 
----
-
-## 📷 Dashboard Preview
-![Dashboard Preview]("C:\Users\Mahammad Furkhan\Pictures\Screenshots\Screenshot 2025-09-28 182314.png")
 
 ---
 
@@ -53,4 +49,4 @@ The goal is to identify key drivers of employee turnover and help HR teams reduc
 ---
 
 👨‍💻 **Author:** Your Name  
-🔗 [LinkedIn](your-link) | [GitHub](https://github.com/your-username)  
+🔗 [LinkedIn](http://www.linkedin.com/in/furkhan5986) | [GitHub](https://github.com/furkhan07)  
